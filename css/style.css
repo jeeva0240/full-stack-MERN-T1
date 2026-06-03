@@ -1,0 +1,13 @@
+/*selector {
+    property: value;
+}*/
+
+p{
+    color:deeppink;
+}
+h1{
+    color:blue;
+}
+#text{
+    +<! 
+}
